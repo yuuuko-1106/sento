@@ -222,6 +222,6 @@ $sentos = array_slice($get_data, $start_no, SHOWMAX, true);
 </script>
 <script type="text/javascript" src="js/map.js"></script>
 <script type="text/javascript" src="js/onsen.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDpXnJnT7uttZCC5wY7dvVgRhUTAKK0dbE&callback=initMap"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=XXXX&callback=initMap"></script>
 </body>
 </html>
